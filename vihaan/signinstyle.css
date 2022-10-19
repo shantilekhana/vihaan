@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: coral;
+}
+
+.login {
+    width: 360px;
+    height: min-content;
+    padding: 20px;
+    border-radius: 12px;
+    background: peachpuff;
+    
+}
+
+
+}
+.login h1 {
+    font-size: medium;
+    margin-bottom: 30px;
+}
+
+.login form{
+    font-size: 22px;
+}
+
+.login form .form-group {
+    margin-bottom: 15px;
+}
+
+.login form input[type="button"] {
+    font-size: 20px;
+    margin-top: 15px;
+
+}
+
