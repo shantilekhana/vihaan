@@ -22,7 +22,7 @@ body{
 }
 
 
-}
+
 .login h1 {
     font-size: medium;
     margin-bottom: 30px;
@@ -41,4 +41,8 @@ body{
     margin-top: 15px;
 
 }
-
+body{
+    background-image: url(image/c10.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -45,3 +45,9 @@ body{
 .button.validate ul li{
     list-style-type: none;
 }
+
+body{
+    background-image: url(image/c12.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
